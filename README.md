@@ -1,6 +1,6 @@
 # ITSM-Incident-Management-Lifecycle-Project
 
-## Hands-on ITSM incident management: Network/Internet interruption!
+## ServiceNow ITSM – Network Internet Interruption Incident Management
 
 # Project Overview
 
