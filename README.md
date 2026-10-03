@@ -1,6 +1,6 @@
 # ITSM-Incident-Management-Lifecycle-Project
 
-## Hands-on ITSM incident management-Network/Internet interruption!
+## Hands-on ITSM incident management: Network/Internet interruption!
 
 # Project Overview
 
