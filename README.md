@@ -83,6 +83,16 @@ SLA priority response completed, OLA Network group resolution completed and SLA 
 
 • ITIL foundations
 
+• Network support
+
+• Business rules
+
+• Client scripts
+
+• UI polices
+
+• Assignment groups
+
 # Purpose:
 ## This project was created to strengthen core ITSM skills and gain hand-on experience with:
 • ServiceNow navigation
